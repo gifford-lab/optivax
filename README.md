@@ -11,8 +11,11 @@ Authors: Ge Liu, Brandon Carter, Trenton Bricken, Siddhartha Jain, Mathias Viard
 
 ### Data
 
-Additional data (model predictions and haplotype frequencies) are available at:
+Additional data (model predictions and processed haplotype frequencies) are available at:
 https://www.dropbox.com/sh/v1jcin4mh7jua14/AAB7W0Y7IXtXRL8Ehlrtvft6a?dl=0
+
+HLA haplotype frequencies are available in Mendeley Data:
+https://doi.org/10.17632/cfxkfy9zp4.1
 
 
 ### Citation
