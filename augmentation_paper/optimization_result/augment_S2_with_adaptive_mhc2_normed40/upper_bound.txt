@@ -1,0 +1,4 @@
+overall coverage:0.916402
+White	0.995805
+Black	0.960901
+Asians	0.792499
