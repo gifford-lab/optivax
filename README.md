@@ -6,7 +6,7 @@ This repository contains code and part of the data for the following papers:
 <br />
 Cell Systems, 2020
 <br />
-Code location: `vaccine_paper`
+Code location: [vaccine_paper/](vaccine_paper/)
 <br />
 Authors: Ge Liu, Brandon Carter, Trenton Bricken, Siddhartha Jain, Mathias Viard, Mary Carrington, David K. Gifford
 
@@ -14,7 +14,7 @@ Authors: Ge Liu, Brandon Carter, Trenton Bricken, Siddhartha Jain, Mathias Viard
 <br />
 Bioarvix, 2020
 <br />
-Code location: `augmentation_paper`
+Code location: [augmentation_paper/](augmentation_paper/)
 <br />
 Authors: Ge Liu, Brandon Carter, David K. Gifford
 
