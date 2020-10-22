@@ -12,7 +12,7 @@ Authors: Ge Liu, Brandon Carter, Trenton Bricken, Siddhartha Jain, Mathias Viard
 
 [Predicted Cellular Immunity Population Coverage Gaps for SARS-CoV-2 Subunit Vaccines and their Augmentation by Compact Peptide Sets](https://www.biorxiv.org/content/10.1101/2020.08.04.200691v1.abstract)
 <br />
-Bioarvix, 2020
+bioRxiv, 2020
 <br />
 Code location: [augmentation_paper/](augmentation_paper/)
 <br />
