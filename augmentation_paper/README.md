@@ -1,11 +1,13 @@
 # OptiVax subunit augmentation and vaccine design
 
-This repository contains code and part of the data for the following papers:
+This repository contains code and part of the data for the following paper:
+<br>
 [Predicted Cellular Immunity Population Coverage Gaps for SARS-CoV-2 Subunit Vaccines and their Augmentation by Compact Peptide Sets](https://www.biorxiv.org/content/10.1101/2020.08.04.200691v1.abstract)
 <br />
-Bioarvix, 2020
+bioRxiv, 2020
 <br />
 Authors: Ge Liu, Brandon Carter, David K. Gifford
+
 
 ## Set up
 Copy the `*_mhc*_pept.txt` files to the same root directory of the python files. 
