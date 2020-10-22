@@ -10,7 +10,7 @@ Code location: [vaccine_paper/](vaccine_paper/)
 <br />
 Authors: Ge Liu, Brandon Carter, Trenton Bricken, Siddhartha Jain, Mathias Viard, Mary Carrington, David K. Gifford
 
-[Predicted Cellular Immunity Population Coverage Gaps for SARS-CoV-2 Subunit Vaccines and their Augmentation by Compact Peptide Sets](https://www.biorxiv.org/content/10.1101/2020.08.04.200691v1.abstract)
+[Predicted Cellular Immunity Population Coverage Gaps for SARS-CoV-2 Subunit Vaccines and their Augmentation by Compact Peptide Sets](https://www.biorxiv.org/content/10.1101/2020.08.04.200691v2)
 <br />
 bioRxiv, 2020
 <br />
