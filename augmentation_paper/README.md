@@ -11,7 +11,7 @@ Authors: Ge Liu, Brandon Carter, David K. Gifford
 
 ## Set up
 Copy the `*_mhc*_pept.txt` files to the same root directory of the python files. 
-Download the haplotype frequency data and model predictions for `ensemb-adapt` model from https://www.dropbox.com/sh/v1jcin4mh7jua14/AAB7W0Y7IXtXRL8Ehlrtvft6a?dl=0, 
+Download the haplotype frequency data and model predictions for `ensemb-adapt` model from https://doi.org/10.17632/gs8c2jpvdn.1, 
 and put them into the same root directory. Copy over the `AllEpitopeFeatures.pkl` and `self_pept.txt` from the home directory of this github repo.
 
 ## Non-redundant compression of subunit peptides
