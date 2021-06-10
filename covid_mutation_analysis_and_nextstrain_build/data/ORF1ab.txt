@@ -1,0 +1,282 @@
+FT   CHAIN           1..7096
+FT                   /note="Replicase polyprotein 1ab"
+FT                   /id="PRO_0000449618"
+FT   CHAIN           1..180
+FT                   /note="Host translation inhibitor nsp1"
+FT                   /evidence="ECO:0000250|UniProtKB:P0C6V3"
+FT                   /id="PRO_0000449619"
+FT   CHAIN           181..818
+FT                   /note="Non-structural protein 2"
+FT                   /evidence="ECO:0000250|UniProtKB:P0C6V3"
+FT                   /id="PRO_0000449620"
+FT   CHAIN           819..2763
+FT                   /note="Non-structural protein 3"
+FT                   /evidence="ECO:0000250|UniProtKB:P0C6V3"
+FT                   /id="PRO_0000449621"
+FT   CHAIN           2764..3263
+FT                   /note="Non-structural protein 4"
+FT                   /evidence="ECO:0000250|UniProtKB:P0C6V3"
+FT                   /id="PRO_0000449622"
+FT   CHAIN           3264..3569
+FT                   /note="3C-like proteinase"
+FT                   /evidence="ECO:0000250|UniProtKB:P0C6V3"
+FT                   /id="PRO_0000449623"
+FT   CHAIN           3570..3859
+FT                   /note="Non-structural protein 6"
+FT                   /evidence="ECO:0000250|UniProtKB:P0C6V3"
+FT                   /id="PRO_0000449624"
+FT   CHAIN           3860..3942
+FT                   /note="Non-structural protein 7"
+FT                   /evidence="ECO:0000250|UniProtKB:P0C6V3"
+FT                   /id="PRO_0000449625"
+FT   CHAIN           3943..4140
+FT                   /note="Non-structural protein 8"
+FT                   /evidence="ECO:0000250|UniProtKB:P0C6V3"
+FT                   /id="PRO_0000449626"
+FT   CHAIN           4141..4253
+FT                   /note="Non-structural protein 9"
+FT                   /evidence="ECO:0000250|UniProtKB:P0C6V3"
+FT                   /id="PRO_0000449627"
+FT   CHAIN           4254..4392
+FT                   /note="Non-structural protein 10"
+FT                   /evidence="ECO:0000250|UniProtKB:P0C6V3"
+FT                   /id="PRO_0000449628"
+FT   CHAIN           4393..5324
+FT                   /note="RNA-directed RNA polymerase"
+FT                   /evidence="ECO:0000250|UniProtKB:P0C6V3"
+FT                   /id="PRO_0000449629"
+FT   CHAIN           5325..5925
+FT                   /note="Helicase"
+FT                   /evidence="ECO:0000250|UniProtKB:P0C6V3"
+FT                   /id="PRO_0000449630"
+FT   CHAIN           5926..6452
+FT                   /note="Guanine-N7 methyltransferase"
+FT                   /evidence="ECO:0000250|UniProtKB:P0C6V3"
+FT                   /id="PRO_0000449631"
+FT   CHAIN           6453..6798
+FT                   /note="Uridylate-specific endoribonuclease"
+FT                   /evidence="ECO:0000250|UniProtKB:P0C6V3"
+FT                   /id="PRO_0000449632"
+FT   CHAIN           6799..7096
+FT                   /note="2'-O-methyltransferase"
+FT                   /evidence="ECO:0000250|UniProtKB:P0C6V3"
+FT                   /id="PRO_0000449633"
+FT   TOPO_DOM        1..2225
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000305"
+FT   TRANSMEM        2226..2246
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        2247..2317
+FT                   /note="Lumenal"
+FT                   /evidence="ECO:0000305"
+FT   TRANSMEM        2318..2338
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        2339..2775
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000305"
+FT   TRANSMEM        2776..2796
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        2797..3044
+FT                   /note="Lumenal"
+FT                   /evidence="ECO:0000305"
+FT   TRANSMEM        3045..3065
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        3066..3099
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000305"
+FT   TRANSMEM        3100..3120
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        3121..3127
+FT                   /note="Lumenal"
+FT                   /evidence="ECO:0000305"
+FT   TRANSMEM        3128..3148
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        3149..3586
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000305"
+FT   TRANSMEM        3587..3607
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        3608
+FT                   /note="Lumenal"
+FT                   /evidence="ECO:0000305"
+FT   TRANSMEM        3609..3629
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        3630..3634
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000305"
+FT   TRANSMEM        3635..3655
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        3656..3673
+FT                   /note="Lumenal"
+FT                   /evidence="ECO:0000305"
+FT   TRANSMEM        3674..3694
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        3695..3729
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000305"
+FT   TRANSMEM        3730..3750
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        3751..3778
+FT                   /note="Lumenal"
+FT                   /evidence="ECO:0000305"
+FT   TRANSMEM        3779..3799
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        3800..7096
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000305"
+FT   REPEAT          545..569
+FT                   /note="LRR 1"
+FT                   /evidence="ECO:0000255"
+FT   REPEAT          697..719
+FT                   /note="LRR 2"
+FT                   /evidence="ECO:0000255"
+FT   DOMAIN          1025..1194
+FT                   /note="Macro"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00490"
+FT   DOMAIN          1634..1898
+FT                   /note="Peptidase C16"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00444"
+FT   REPEAT          1680..1702
+FT                   /note="LRR 3"
+FT                   /evidence="ECO:0000255"
+FT   REPEAT          3185..3206
+FT                   /note="LRR 4"
+FT                   /evidence="ECO:0000255"
+FT   DOMAIN          3264..3569
+FT                   /note="Peptidase C30"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00772"
+FT   REPEAT          3935..3959
+FT                   /note="LRR 5"
+FT                   /evidence="ECO:0000255"
+FT   REPEAT          3977..4004
+FT                   /note="LRR 6"
+FT                   /evidence="ECO:0000255"
+FT   REPEAT          4591..4616
+FT                   /note="LRR 7"
+FT                   /evidence="ECO:0000255"
+FT   DOMAIN          5004..5166
+FT                   /note="RdRp catalytic"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00539"
+FT   DOMAIN          5325..5408
+FT                   /note="CV ZBD"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00986"
+FT   REPEAT          5552..5572
+FT                   /note="LRR 8"
+FT                   /evidence="ECO:0000255"
+FT   DOMAIN          5581..5762
+FT                   /note="(+)RNA virus helicase ATP-binding"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00990"
+FT   DOMAIN          5763..5932
+FT                   /note="(+)RNA virus helicase C-terminal"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00990"
+FT   REPEAT          6817..6841
+FT                   /note="LRR 9"
+FT                   /evidence="ECO:0000255"
+FT   ZN_FING         1752..1789
+FT                   /note="C4-type"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00444"
+FT   NP_BIND         5606..5613
+FT                   /note="NTP"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00990"
+FT   ACT_SITE        1674
+FT                   /note="For PL1-PRO activity"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00444"
+FT   ACT_SITE        1835
+FT                   /note="For PL2-PRO activity"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00444"
+FT   ACT_SITE        3304
+FT                   /note="For 3CL-PRO activity"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00772"
+FT   ACT_SITE        3408
+FT                   /note="For 3CL-PRO activity"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00772"
+FT   METAL           5329
+FT                   /note="Zinc 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00986"
+FT   METAL           5332
+FT                   /note="Zinc 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00986"
+FT   METAL           5340
+FT                   /note="Zinc 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00986"
+FT   METAL           5343
+FT                   /note="Zinc 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00986"
+FT   METAL           5350
+FT                   /note="Zinc 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00986"
+FT   METAL           5353
+FT                   /note="Zinc 2; via tele nitrogen"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00986"
+FT   METAL           5357
+FT                   /note="Zinc 2; via pros nitrogen"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00986"
+FT   METAL           5363
+FT                   /note="Zinc 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00986"
+FT   METAL           5374
+FT                   /note="Zinc 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00986"
+FT   METAL           5379
+FT                   /note="Zinc 3; via pros nitrogen"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00986"
+FT   METAL           5396
+FT                   /note="Zinc 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00986"
+FT   METAL           5399
+FT                   /note="Zinc 3"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00986"
+FT   SITE            180..181
+FT                   /note="Cleavage; by PL-PRO"
+FT                   /evidence="ECO:0000250|UniProtKB:P0C6V3"
+FT   SITE            818..819
+FT                   /note="Cleavage; by PL-PRO"
+FT                   /evidence="ECO:0000250|UniProtKB:P0C6V3"
+FT   SITE            2763..2764
+FT                   /note="Cleavage; by PL-PRO"
+FT                   /evidence="ECO:0000250|UniProtKB:P0C6V3"
+FT   SITE            3263..3264
+FT                   /note="Cleavage; by 3CL-PRO"
+FT                   /evidence="ECO:0000250|UniProtKB:P0C6V3"
+FT   SITE            3569..3570
+FT                   /note="Cleavage; aby 3CL-PRO"
+FT                   /evidence="ECO:0000250|UniProtKB:P0C6V3"
+FT   SITE            3859..3860
+FT                   /note="Cleavage; by 3CL-PRO"
+FT                   /evidence="ECO:0000250|UniProtKB:P0C6V3"
+FT   SITE            3942..3943
+FT                   /note="Cleavage; by 3CL-PRO"
+FT                   /evidence="ECO:0000250|UniProtKB:P0C6V3"
+FT   SITE            4140..4141
+FT                   /note="Cleavage; by 3CL-PRO"
+FT                   /evidence="ECO:0000250|UniProtKB:P0C6V3"
+FT   SITE            4253..4254
+FT                   /note="Cleavage; by 3CL-PRO"
+FT                   /evidence="ECO:0000250|UniProtKB:P0C6V3"
+FT   SITE            4392..4393
+FT                   /note="Cleavage; by 3CL-PRO"
+FT                   /evidence="ECO:0000250|UniProtKB:P0C6V3"
+FT   SITE            5324..5325
+FT                   /note="Cleavage; by 3CL-PRO"
+FT                   /evidence="ECO:0000250|UniProtKB:P0C6V3"
+FT   SITE            5925..5926
+FT                   /note="Cleavage; by 3CL-PRO"
+FT                   /evidence="ECO:0000250|UniProtKB:P0C6V3"
+FT   SITE            6452..6453
+FT                   /note="Cleavage; by 3CL-PRO"
+FT                   /evidence="ECO:0000250|UniProtKB:P0C6V3"
+FT   SITE            6798..6799
+FT                   /note="Cleavage; by 3CL-PRO"
+FT                   /evidence="ECO:0000250|UniProtKB:P0C6V3"
