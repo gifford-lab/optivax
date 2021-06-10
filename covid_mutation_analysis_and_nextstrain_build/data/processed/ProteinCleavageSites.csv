@@ -1,0 +1,19 @@
+Start,End,Sub_Protein,Protein
+0,179,Non-structural protein 1,ORF1a
+180,817,Non-structural protein 2,ORF1a
+818,2762,Non-structural protein 3,ORF1a
+2763,3262,Non-structural protein 4,ORF1a
+3263,3568,3C-like proteinase,ORF1a
+3569,3858,Non-structural protein 6,ORF1a
+3859,3941,Non-structural protein 7,ORF1a
+3942,4139,Non-structural protein 8,ORF1a
+4140,4252,Non-structural protein 9,ORF1a
+4253,4391,Non-structural protein 10,ORF1a
+4392,4404,Non-structural protein 11,ORF1a
+-9,922,RNA-directed RNA polymerase,ORF1b
+923,1523,Helicase,ORF1b
+1524,2050,Guanine-N7 methyltransferase,ORF1b
+2051,2396,Uridylate-specific endoribonuclease,ORF1b
+2397,2694,2'-O-methyltransferase,ORF1b
+0,684,S1,S
+685,1273,S2,S
